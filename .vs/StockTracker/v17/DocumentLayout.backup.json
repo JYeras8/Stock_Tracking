@@ -1,0 +1,288 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "O:\\source\\repos\\StockTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{226D0AA1-1B2D-497F-B0C4-335B77E17F41}|StockTracker\\StockTracker.csproj|o:\\source\\repos\\stocktracker\\stocktracker\\frmdeleted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{226D0AA1-1B2D-497F-B0C4-335B77E17F41}|StockTracker\\StockTracker.csproj|solutionrelative:stocktracker\\frmdeleted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D0AA1-1B2D-497F-B0C4-335B77E17F41}|StockTracker\\StockTracker.csproj|o:\\source\\repos\\stocktracker\\stocktracker\\frmdeleted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{226D0AA1-1B2D-497F-B0C4-335B77E17F41}|StockTracker\\StockTracker.csproj|solutionrelative:stocktracker\\frmdeleted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D0AA1-1B2D-497F-B0C4-335B77E17F41}|StockTracker\\StockTracker.csproj|o:\\source\\repos\\stocktracker\\stocktracker\\dal\\dto\\productdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{226D0AA1-1B2D-497F-B0C4-335B77E17F41}|StockTracker\\StockTracker.csproj|solutionrelative:stocktracker\\dal\\dto\\productdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D0AA1-1B2D-497F-B0C4-335B77E17F41}|StockTracker\\StockTracker.csproj|o:\\source\\repos\\stocktracker\\stocktracker\\dal\\dto\\salesdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{226D0AA1-1B2D-497F-B0C4-335B77E17F41}|StockTracker\\StockTracker.csproj|solutionrelative:stocktracker\\dal\\dto\\salesdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D0AA1-1B2D-497F-B0C4-335B77E17F41}|StockTracker\\StockTracker.csproj|o:\\source\\repos\\stocktracker\\stocktracker\\frmstockalert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{226D0AA1-1B2D-497F-B0C4-335B77E17F41}|StockTracker\\StockTracker.csproj|solutionrelative:stocktracker\\frmstockalert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D0AA1-1B2D-497F-B0C4-335B77E17F41}|StockTracker\\StockTracker.csproj|o:\\source\\repos\\stocktracker\\stocktracker\\frmsaleslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{226D0AA1-1B2D-497F-B0C4-335B77E17F41}|StockTracker\\StockTracker.csproj|solutionrelative:stocktracker\\frmsaleslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D0AA1-1B2D-497F-B0C4-335B77E17F41}|StockTracker\\StockTracker.csproj|o:\\source\\repos\\stocktracker\\stocktracker\\frmproductlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{226D0AA1-1B2D-497F-B0C4-335B77E17F41}|StockTracker\\StockTracker.csproj|solutionrelative:stocktracker\\frmproductlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D0AA1-1B2D-497F-B0C4-335B77E17F41}|StockTracker\\StockTracker.csproj|o:\\source\\repos\\stocktracker\\stocktracker\\frmsaleslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{226D0AA1-1B2D-497F-B0C4-335B77E17F41}|StockTracker\\StockTracker.csproj|solutionrelative:stocktracker\\frmsaleslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D0AA1-1B2D-497F-B0C4-335B77E17F41}|StockTracker\\StockTracker.csproj|o:\\source\\repos\\stocktracker\\stocktracker\\frmproductlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{226D0AA1-1B2D-497F-B0C4-335B77E17F41}|StockTracker\\StockTracker.csproj|solutionrelative:stocktracker\\frmproductlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D0AA1-1B2D-497F-B0C4-335B77E17F41}|StockTracker\\StockTracker.csproj|o:\\source\\repos\\stocktracker\\stocktracker\\dal\\dao\\salesdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{226D0AA1-1B2D-497F-B0C4-335B77E17F41}|StockTracker\\StockTracker.csproj|solutionrelative:stocktracker\\dal\\dao\\salesdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D0AA1-1B2D-497F-B0C4-335B77E17F41}|StockTracker\\StockTracker.csproj|o:\\source\\repos\\stocktracker\\stocktracker\\dal\\dao\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{226D0AA1-1B2D-497F-B0C4-335B77E17F41}|StockTracker\\StockTracker.csproj|solutionrelative:stocktracker\\dal\\dao\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D0AA1-1B2D-497F-B0C4-335B77E17F41}|StockTracker\\StockTracker.csproj|o:\\source\\repos\\stocktracker\\stocktracker\\bll\\salesbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{226D0AA1-1B2D-497F-B0C4-335B77E17F41}|StockTracker\\StockTracker.csproj|solutionrelative:stocktracker\\bll\\salesbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D0AA1-1B2D-497F-B0C4-335B77E17F41}|StockTracker\\StockTracker.csproj|o:\\source\\repos\\stocktracker\\stocktracker\\bll\\productbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{226D0AA1-1B2D-497F-B0C4-335B77E17F41}|StockTracker\\StockTracker.csproj|solutionrelative:stocktracker\\bll\\productbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D0AA1-1B2D-497F-B0C4-335B77E17F41}|StockTracker\\StockTracker.csproj|o:\\source\\repos\\stocktracker\\stocktracker\\dal\\dao\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{226D0AA1-1B2D-497F-B0C4-335B77E17F41}|StockTracker\\StockTracker.csproj|solutionrelative:stocktracker\\dal\\dao\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D0AA1-1B2D-497F-B0C4-335B77E17F41}|StockTracker\\StockTracker.csproj|o:\\source\\repos\\stocktracker\\stocktracker\\dal\\dao\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{226D0AA1-1B2D-497F-B0C4-335B77E17F41}|StockTracker\\StockTracker.csproj|solutionrelative:stocktracker\\dal\\dao\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D0AA1-1B2D-497F-B0C4-335B77E17F41}|StockTracker\\StockTracker.csproj|o:\\source\\repos\\stocktracker\\stocktracker\\bll\\customerbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{226D0AA1-1B2D-497F-B0C4-335B77E17F41}|StockTracker\\StockTracker.csproj|solutionrelative:stocktracker\\bll\\customerbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmProductList.cs [Design]",
+              "DocumentMoniker": "O:\\source\\repos\\StockTracker\\StockTracker\\frmProductList.cs",
+              "RelativeDocumentMoniker": "StockTracker\\frmProductList.cs",
+              "ToolTip": "O:\\source\\repos\\StockTracker\\StockTracker\\frmProductList.cs [Design]",
+              "RelativeToolTip": "StockTracker\\frmProductList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T04:24:52.275Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmSalesList.cs",
+              "DocumentMoniker": "O:\\source\\repos\\StockTracker\\StockTracker\\frmSalesList.cs",
+              "RelativeDocumentMoniker": "StockTracker\\frmSalesList.cs",
+              "ToolTip": "O:\\source\\repos\\StockTracker\\StockTracker\\frmSalesList.cs",
+              "RelativeToolTip": "StockTracker\\frmSalesList.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAtwFAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T04:24:13.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmSalesList.cs [Design]",
+              "DocumentMoniker": "O:\\source\\repos\\StockTracker\\StockTracker\\frmSalesList.cs",
+              "RelativeDocumentMoniker": "StockTracker\\frmSalesList.cs",
+              "ToolTip": "O:\\source\\repos\\StockTracker\\StockTracker\\frmSalesList.cs [Design]",
+              "RelativeToolTip": "StockTracker\\frmSalesList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T04:24:10.119Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmStockAlert.cs [Design]",
+              "DocumentMoniker": "O:\\source\\repos\\StockTracker\\StockTracker\\frmStockAlert.cs",
+              "RelativeDocumentMoniker": "StockTracker\\frmStockAlert.cs",
+              "ToolTip": "O:\\source\\repos\\StockTracker\\StockTracker\\frmStockAlert.cs [Design]",
+              "RelativeToolTip": "StockTracker\\frmStockAlert.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T04:24:09.238Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SalesDetailDTO.cs",
+              "DocumentMoniker": "O:\\source\\repos\\StockTracker\\StockTracker\\DAL\\DTO\\SalesDetailDTO.cs",
+              "RelativeDocumentMoniker": "StockTracker\\DAL\\DTO\\SalesDetailDTO.cs",
+              "ToolTip": "O:\\source\\repos\\StockTracker\\StockTracker\\DAL\\DTO\\SalesDetailDTO.cs",
+              "RelativeToolTip": "StockTracker\\DAL\\DTO\\SalesDetailDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T04:10:12.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductDetailDTO.cs",
+              "DocumentMoniker": "O:\\source\\repos\\StockTracker\\StockTracker\\DAL\\DTO\\ProductDetailDTO.cs",
+              "RelativeDocumentMoniker": "StockTracker\\DAL\\DTO\\ProductDetailDTO.cs",
+              "ToolTip": "O:\\source\\repos\\StockTracker\\StockTracker\\DAL\\DTO\\ProductDetailDTO.cs",
+              "RelativeToolTip": "StockTracker\\DAL\\DTO\\ProductDetailDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T04:07:42.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmDeleted.cs [Design]",
+              "DocumentMoniker": "O:\\source\\repos\\StockTracker\\StockTracker\\frmDeleted.cs",
+              "RelativeDocumentMoniker": "StockTracker\\frmDeleted.cs",
+              "ToolTip": "O:\\source\\repos\\StockTracker\\StockTracker\\frmDeleted.cs [Design]",
+              "RelativeToolTip": "StockTracker\\frmDeleted.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T03:14:40.154Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmDeleted.cs",
+              "DocumentMoniker": "O:\\source\\repos\\StockTracker\\StockTracker\\frmDeleted.cs",
+              "RelativeDocumentMoniker": "StockTracker\\frmDeleted.cs",
+              "ToolTip": "O:\\source\\repos\\StockTracker\\StockTracker\\frmDeleted.cs",
+              "RelativeToolTip": "StockTracker\\frmDeleted.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwDcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T02:17:06.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmProductList.cs",
+              "DocumentMoniker": "O:\\source\\repos\\StockTracker\\StockTracker\\frmProductList.cs",
+              "RelativeDocumentMoniker": "StockTracker\\frmProductList.cs",
+              "ToolTip": "O:\\source\\repos\\StockTracker\\StockTracker\\frmProductList.cs",
+              "RelativeToolTip": "StockTracker\\frmProductList.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAIA2wEgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T04:24:54.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SalesDAO.cs",
+              "DocumentMoniker": "O:\\source\\repos\\StockTracker\\StockTracker\\DAL\\DAO\\SalesDAO.cs",
+              "RelativeDocumentMoniker": "StockTracker\\DAL\\DAO\\SalesDAO.cs",
+              "ToolTip": "O:\\source\\repos\\StockTracker\\StockTracker\\DAL\\DAO\\SalesDAO.cs",
+              "RelativeToolTip": "StockTracker\\DAL\\DAO\\SalesDAO.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAlwKwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T03:01:27.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductDAO.cs",
+              "DocumentMoniker": "O:\\source\\repos\\StockTracker\\StockTracker\\DAL\\DAO\\ProductDAO.cs",
+              "RelativeDocumentMoniker": "StockTracker\\DAL\\DAO\\ProductDAO.cs",
+              "ToolTip": "O:\\source\\repos\\StockTracker\\StockTracker\\DAL\\DAO\\ProductDAO.cs",
+              "RelativeToolTip": "StockTracker\\DAL\\DAO\\ProductDAO.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAwwJQAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T02:54:50.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductBLL.cs",
+              "DocumentMoniker": "O:\\source\\repos\\StockTracker\\StockTracker\\BLL\\ProductBLL.cs",
+              "RelativeDocumentMoniker": "StockTracker\\BLL\\ProductBLL.cs",
+              "ToolTip": "O:\\source\\repos\\StockTracker\\StockTracker\\BLL\\ProductBLL.cs",
+              "RelativeToolTip": "StockTracker\\BLL\\ProductBLL.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAD4vx8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T02:51:57.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoryDAO.cs",
+              "DocumentMoniker": "O:\\source\\repos\\StockTracker\\StockTracker\\DAL\\DAO\\CategoryDAO.cs",
+              "RelativeDocumentMoniker": "StockTracker\\DAL\\DAO\\CategoryDAO.cs",
+              "ToolTip": "O:\\source\\repos\\StockTracker\\StockTracker\\DAL\\DAO\\CategoryDAO.cs",
+              "RelativeToolTip": "StockTracker\\DAL\\DAO\\CategoryDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T02:51:12.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SalesBLL.cs",
+              "DocumentMoniker": "O:\\source\\repos\\StockTracker\\StockTracker\\BLL\\SalesBLL.cs",
+              "RelativeDocumentMoniker": "StockTracker\\BLL\\SalesBLL.cs",
+              "ToolTip": "O:\\source\\repos\\StockTracker\\StockTracker\\BLL\\SalesBLL.cs",
+              "RelativeToolTip": "StockTracker\\BLL\\SalesBLL.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T03:00:19.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomerDAO.cs",
+              "DocumentMoniker": "O:\\source\\repos\\StockTracker\\StockTracker\\DAL\\DAO\\CustomerDAO.cs",
+              "RelativeDocumentMoniker": "StockTracker\\DAL\\DAO\\CustomerDAO.cs",
+              "ToolTip": "O:\\source\\repos\\StockTracker\\StockTracker\\DAL\\DAO\\CustomerDAO.cs",
+              "RelativeToolTip": "StockTracker\\DAL\\DAO\\CustomerDAO.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAD4vyYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T02:50:44.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CustomerBLL.cs",
+              "DocumentMoniker": "O:\\source\\repos\\StockTracker\\StockTracker\\BLL\\CustomerBLL.cs",
+              "RelativeDocumentMoniker": "StockTracker\\BLL\\CustomerBLL.cs",
+              "ToolTip": "O:\\source\\repos\\StockTracker\\StockTracker\\BLL\\CustomerBLL.cs",
+              "RelativeToolTip": "StockTracker\\BLL\\CustomerBLL.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T02:49:43.477Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
